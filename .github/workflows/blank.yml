@@ -24,10 +24,10 @@ jobs:
     steps:
       -uses: actions/checkout@v2
       -name: Run a one-line script
-      run: echo Hello, World!
+        run: echo Hello, World!
       
       -name: Run a multi-line script
-      run:
+        run:
         echo Add other actions to build,
         echo text, and deploy your project.
       
