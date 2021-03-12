@@ -1,1 +1,1 @@
-update readme
+readme.txt is updated
